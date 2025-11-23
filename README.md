@@ -1,2 +1,0 @@
-# Tagiyev
-Alışkanlık takip uygulaması
